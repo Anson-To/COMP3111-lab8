@@ -3,7 +3,7 @@
  */
 public class Library {
     public boolean someLibraryMethod() {
+    	return true;//redsox
     	//redsox
-        return true;//redsox
     }
 }
